@@ -1,5 +1,5 @@
 # Django-Rest-example
-### see more information https://www.django-rest-framework.org/tutorial/quickstart/
+
 ## Installation
 1. git clone https://github.com/Jumayev-A/Django-Rest-example.git
 2. cd Django-Rest-example/
@@ -13,3 +13,4 @@
 ## Authentication Information
 ** username: _admin_ **
 ** password: _1234_ **
+### see more information https://www.django-rest-framework.org/tutorial/quickstart/
